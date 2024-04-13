@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import acscd from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-acscd@esm/index.mjs';
+import acscd from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-acscd@v0.1.0-esm/index.mjs';
 ```
 
 #### acscd( x )
@@ -87,7 +87,7 @@ v = acscd( NaN );
 <script type="module">
 
 import linspace from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-linspace@esm/index.mjs';
-import acscd from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-acscd@esm/index.mjs';
+import acscd from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-acscd@v0.1.0-esm/index.mjs';
 
 var x = linspace( -10.0, 10.0, 100 );
 
