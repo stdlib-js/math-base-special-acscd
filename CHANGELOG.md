@@ -2,9 +2,9 @@
 
 > Package changelog.
 
-<section class="release" id="unreleased">
+<section class="release" id="v0.1.1">
 
-## Unreleased (2024-07-14)
+## 0.1.1 (2024-07-28)
 
 <section class="commits">
 
@@ -59,9 +59,9 @@ A total of 1 person contributed to this release. Thank you to this contributor:
 
 -   [`41d41e9`](https://github.com/stdlib-js/stdlib/commit/41d41e959b4eaad3c631e6898e3144a4015a5458) - **test:** include trailing newlines in Julia-generated JSON fixtures _(by Philipp Burckhardt)_
 -   [`9ed7d0e`](https://github.com/stdlib-js/stdlib/commit/9ed7d0e7d57edb5ad0dfb65c944bed87d475cbf3) - **chore:** add missing trailing newlines _(by Philipp Burckhardt)_
--   [`f36cfab`](https://github.com/stdlib-js/stdlib/commit/f36cfab3875404fd9c58b6e2a6fedca5e04cb4d9) - **chore:** update package meta data [(##2014)](#2014) _(by stdlib-bot)_
+-   [`f36cfab`](https://github.com/stdlib-js/stdlib/commit/f36cfab3875404fd9c58b6e2a6fedca5e04cb4d9) - **chore:** update package meta data [(#2014)](https://github.com/stdlib-js/stdlib/pull/2014) _(by stdlib-bot)_
 -   [`5de3b76`](https://github.com/stdlib-js/stdlib/commit/5de3b7612454a97aef3c4cd8e8ba48858cc13d02) - **feat:** add C implementation for `math/base/special/acscd` _(by Rejoan Sardar, Philipp Burckhardt)_
--   [`dc20da0`](https://github.com/stdlib-js/stdlib/commit/dc20da0604fe2798e20e757277072fefc876da3c) - **chore:** update package meta data [(##1856)](#1856) _(by stdlib-bot, Philipp Burckhardt)_
+-   [`dc20da0`](https://github.com/stdlib-js/stdlib/commit/dc20da0604fe2798e20e757277072fefc876da3c) - **chore:** update package meta data [(#1856)](https://github.com/stdlib-js/stdlib/pull/1856) _(by stdlib-bot, Philipp Burckhardt)_
 -   [`1d7b726`](https://github.com/stdlib-js/stdlib/commit/1d7b726c275c4a1bcb13ac2731ad19bec63d3041) - **feat:** add `math/base/special/acscd` _(by Sai Srikar Dumpeti)_
 
 </details>
